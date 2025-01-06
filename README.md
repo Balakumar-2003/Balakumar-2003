@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Balakumar
-- 👀 I’m interested in Software development
-- 🌱 I’m currently learning data structure and algorithm
-- 💞️ I’m looking to collaborate on software development projects
+- 👀 I’m interested in Android development
+- 🌱 I’m currently learning Android Jetpack Compose
+- 💞️ I’m looking to collaborate on android development projects
 - 📫 email-karunakaran123balu@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
